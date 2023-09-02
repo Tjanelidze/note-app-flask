@@ -6,16 +6,9 @@ chardet==4.0.0
 click==8.1.7
 colorama==0.4.4
 cryptography==3.4.8
-
-
 Flask==2.3.3
 Flask-Login==0.6.2
 Flask-SQLAlchemy==3.0.5
-
-
 gunicorn==21.2.0
-
-
-
 SQLAlchemy==2.0.20
-
+Werkzeug==2.3.7
